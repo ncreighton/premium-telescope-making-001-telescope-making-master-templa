@@ -1,0 +1,2 @@
+# premium-telescope-making-001-telescope-making-master-templa
+Stop losing track of your telescope build in a mess of scattered notes and forgotten measurements—the Telescope Making Master Template keeps every spec, step, and schedule in one place.  This Notion template transforms the complex process of telescope making into a manageable, organized workflow. It solves the pain of disorganized research and miss
